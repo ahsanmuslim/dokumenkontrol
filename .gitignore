@@ -1,0 +1,4 @@
+#ignore semua folder dengan nama Vendor
+vendor/
+.env
+trackerapps.sql
